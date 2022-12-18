@@ -39,6 +39,7 @@ with open("README.md", "w") as f:
     # Write the mods to the file
     f.write(f"\n## Mods | {len(mods)} total \n")
     for mod in mods:
+        print(mod)
         version = mod.split("_")[1]
         version = version.replace("V", "")
         name = mod.split("_")[0]
@@ -48,3 +49,5 @@ with open("README.md", "w") as f:
 
     # Close the file
     f.close()
+
+print("Done")
