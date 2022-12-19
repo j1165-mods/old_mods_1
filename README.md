@@ -3,7 +3,7 @@ Links may not show the mod
 
 View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commits/main)
 
-# All Mods | 76 total 
+# All Mods | 77 total 
 
 ## Dependencies | 8 total 
 * [**Citadel**](https://www.curseforge.com/minecraft/mc-mods/search?search=citadel) 1.8.1
@@ -15,7 +15,7 @@ View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commi
 * [**SKDS Core**](https://www.curseforge.com/minecraft/mc-mods/search?search=skds-core) 0.2.0
 * [**Cloth Config**](https://www.curseforge.com/minecraft/mc-mods/search?search=cloth-config) 4.16.91
 
-## Mods | 68 total 
+## Mods | 69 total 
 * [**ATUM**](https://www.curseforge.com/minecraft/mc-mods/search?search=atum) 2.2.12
 * [**FPS Reducer**](https://www.curseforge.com/minecraft/mc-mods/search?search=fps-reducer) 1.23
 * [**Let Me Despawn**](https://www.curseforge.com/minecraft/mc-mods/search?search=let-me-despawn) 1.0.2a
@@ -54,6 +54,7 @@ View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commi
 * [**Quark**](https://www.curseforge.com/minecraft/mc-mods/search?search=quark) 2.4 321
 * [**Villager Names**](https://www.curseforge.com/minecraft/mc-mods/search?search=villager-names) 4.3
 * [**Starter Kit**](https://www.curseforge.com/minecraft/mc-mods/search?search=starter-kit) 4.1
+* [**Spartan Weaponry **](https://www.curseforge.com/minecraft/mc-mods/search?search=spartan-weaponry-) 2.2.0rc2
 * [**Touch As Nails**](https://www.curseforge.com/minecraft/mc-mods/search?search=touch-as-nails) 4.1.0.9
 * [**Supplementaries**](https://www.curseforge.com/minecraft/mc-mods/search?search=supplementaries) 0.18.4b
 * [**Saturn**](https://www.curseforge.com/minecraft/mc-mods/search?search=saturn) 0.0.3
