@@ -9,6 +9,9 @@ total = 0
 for filename in os.listdir('.'):
     # Check if file has .jar
     if filename.endswith(".jar"):
+
+        print("Found mod: " + filename)
+
         # Clean the filename
         filename = filename.replace(".jar", "")
         filename = filename.replace("-", " ")

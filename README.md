@@ -3,19 +3,21 @@ Links may not show the mod
 
 View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commits/main)
 
-# All Mods | 77 total 
+# All Mods | 86 total 
 
-## Dependencies | 8 total 
+## Dependencies | 9 total 
 * [**Citadel**](https://www.curseforge.com/minecraft/mc-mods/search?search=citadel) 1.8.1
 * [**Abnormals Core**](https://www.curseforge.com/minecraft/mc-mods/search?search=abnormals-core) 3.3.0
 * [**SuperMartijn Config Lib**](https://www.curseforge.com/minecraft/mc-mods/search?search=supermartijn-config-lib) 1.1.6
 * [**Yungs API**](https://www.curseforge.com/minecraft/mc-mods/search?search=yungs-api) 13
 * [**Transliteration Lib**](https://www.curseforge.com/minecraft/mc-mods/search?search=transliteration-lib) 1.0.4
 * [**Architectury API**](https://www.curseforge.com/minecraft/mc-mods/search?search=architectury-api) 1.32.66
+* [**Gecko Lib**](https://www.curseforge.com/minecraft/mc-mods/search?search=gecko-lib) 3.0.106
 * [**SKDS Core**](https://www.curseforge.com/minecraft/mc-mods/search?search=skds-core) 0.2.0
 * [**Cloth Config**](https://www.curseforge.com/minecraft/mc-mods/search?search=cloth-config) 4.16.91
 
-## Mods | 69 total 
+## Mods | 77 total 
+* [**Journey Map**](https://www.curseforge.com/minecraft/mc-mods/search?search=journey-map) 5.8.5p5
 * [**ATUM**](https://www.curseforge.com/minecraft/mc-mods/search?search=atum) 2.2.12
 * [**FPS Reducer**](https://www.curseforge.com/minecraft/mc-mods/search?search=fps-reducer) 1.23
 * [**Let Me Despawn**](https://www.curseforge.com/minecraft/mc-mods/search?search=let-me-despawn) 1.0.2a
@@ -24,6 +26,7 @@ View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commi
 * [**Epic Night**](https://www.curseforge.com/minecraft/mc-mods/search?search=epic-night) 6.3
 * [**Polymorhp**](https://www.curseforge.com/minecraft/mc-mods/search?search=polymorhp) 0.4
 * [**CTM**](https://www.curseforge.com/minecraft/mc-mods/search?search=ctm) 1.1.2.6
+* [**Battle Towers Lite**](https://www.curseforge.com/minecraft/mc-mods/search?search=battle-towers-lite) X
 * [**Wesleys Roguelike Dungeons**](https://www.curseforge.com/minecraft/mc-mods/search?search=wesleys-roguelike-dungeons) 1.0
 * [**Falling Leaves**](https://www.curseforge.com/minecraft/mc-mods/search?search=falling-leaves) 1.2.4
 * [**LazyDFU**](https://www.curseforge.com/minecraft/mc-mods/search?search=lazydfu) 0.1.3
@@ -33,6 +36,7 @@ View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commi
 * [**Ice And Fire**](https://www.curseforge.com/minecraft/mc-mods/search?search=ice-and-fire) 1.0.45
 * [**Advancement Plaques**](https://www.curseforge.com/minecraft/mc-mods/search?search=advancement-plaques) 1.4.1
 * [**Clorine**](https://www.curseforge.com/minecraft/mc-mods/search?search=clorine) 0.0.1.3
+* [**Spartan Ice Fire**](https://www.curseforge.com/minecraft/mc-mods/search?search=spartan-ice-fire) 1.1.2
 * [**Chisel**](https://www.curseforge.com/minecraft/mc-mods/search?search=chisel) 2.0.1
 * [**Horse Combat Controls**](https://www.curseforge.com/minecraft/mc-mods/search?search=horse-combat-controls) 1.0.4
 * [**Magnesium**](https://www.curseforge.com/minecraft/mc-mods/search?search=magnesium) 1.5
@@ -48,8 +52,11 @@ View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commi
 * [**Corpse**](https://www.curseforge.com/minecraft/mc-mods/search?search=corpse) 1.0.6
 * [**Savage and Ravage**](https://www.curseforge.com/minecraft/mc-mods/search?search=savage-and-ravage) 3.2.0
 * [**Clumps**](https://www.curseforge.com/minecraft/mc-mods/search?search=clumps) 6.0.0.27
+* [**Ars**](https://www.curseforge.com/minecraft/mc-mods/search?search=ars) Nouveau
 * [**Nether Portal Spread**](https://www.curseforge.com/minecraft/mc-mods/search?search=nether-portal-spread) 6.5
 * [**Subwild**](https://www.curseforge.com/minecraft/mc-mods/search?search=subwild) 1.3.1
+* [**Just Enough Resources **](https://www.curseforge.com/minecraft/mc-mods/search?search=just-enough-resources-) 0.12.1.128
+* [**Patchouli**](https://www.curseforge.com/minecraft/mc-mods/search?search=patchouli) 53.2
 * [**Elenai Dodge**](https://www.curseforge.com/minecraft/mc-mods/search?search=elenai-dodge) 1.7.2
 * [**Quark**](https://www.curseforge.com/minecraft/mc-mods/search?search=quark) 2.4 321
 * [**Villager Names**](https://www.curseforge.com/minecraft/mc-mods/search?search=villager-names) 4.3
@@ -63,6 +70,7 @@ View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commi
 * [**Selene**](https://www.curseforge.com/minecraft/mc-mods/search?search=selene) 1.9.0
 * [**Realistic Explosion Physics**](https://www.curseforge.com/minecraft/mc-mods/search?search=realistic-explosion-physics) 1.0.0
 * [**Iceberg**](https://www.curseforge.com/minecraft/mc-mods/search?search=iceberg) 1.0.45
+* [**Just Enough Items**](https://www.curseforge.com/minecraft/mc-mods/search?search=just-enough-items) 7.7.1.153
 * [**Easy Villagers**](https://www.curseforge.com/minecraft/mc-mods/search?search=easy-villagers) 1.0.13
 * [**Realistic Block Physics**](https://www.curseforge.com/minecraft/mc-mods/search?search=realistic-block-physics) 1.0.2
 * [**Desolation**](https://www.curseforge.com/minecraft/mc-mods/search?search=desolation) 1.1.2
@@ -84,4 +92,5 @@ View changes to the mod pack [**here**](https://github.com/j1165-mods/mods/commi
 * [**Connectible Chains**](https://www.curseforge.com/minecraft/mc-mods/search?search=connectible-chains) 1.2.0
 * [**Farmers Delight**](https://www.curseforge.com/minecraft/mc-mods/search?search=farmers-delight) 0.6.0
 * [**Ferrite Core**](https://www.curseforge.com/minecraft/mc-mods/search?search=ferrite-core) 2.1.1
+* [**Wards**](https://www.curseforge.com/minecraft/mc-mods/search?search=wards) 1.5.0 BETA
 * [**Titles**](https://www.curseforge.com/minecraft/mc-mods/search?search=titles) 3.4.3
